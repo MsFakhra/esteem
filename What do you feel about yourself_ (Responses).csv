@@ -1,7 +1,7 @@
 What is your gender?,What is your age?,Computed Esteem Score,"When I get negative feedback online, I fear I might be rejected by others.","When you receive a negative feedback, do you think that you are not good enough?","When you receive a positive feedback, do you think that you are good enough to have positive feedback"
-Male,35 - 44,18,3,1,2
-Male,35 - 44,20,3,2,1
-Female,> 44,25,1,3,3
+Male,35 - 44,18,3,1,2,,,,,,,rejection,"When I get negative feedback online, I fear I might be rejected by others."
+Male,35 - 44,20,3,2,1,,,,,,,neg_eval,"When you receive a negative feedback, do you think that you are not good enough?"
+Female,> 44,25,1,3,3,,,,,,,pos_eval,"When you receive a positive feedback, do you think that you are good enough to have positive feedback"
 Female,16 - 24,20,2,2,1
 Male,16 - 24,21,3,3,2
 Male,16 - 24,20,3,2,2
